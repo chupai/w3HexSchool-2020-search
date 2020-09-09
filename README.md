@@ -12,5 +12,5 @@
 - ESLint(AlloyTeam)
 
 ## 位置
-- [網頁](https://chupai.github.io/w3cHexSchool-w3HexSchool-searchPage/#/)
-- [Github](https://github.com/chupai/w3HexSchool-searchPage)
+- [網頁](https://chupai.github.io/w3HexSchool-2020-search/#/)
+- [Github](https://github.com/chupai/w3HexSchool-2020-search)
